@@ -1,0 +1,111 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="BranchesTreeState">
+    <expand>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </expand>
+    <select />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="ebd106af-91bc-425d-ae62-941959271aa4" name="Default Changelist" comment="???" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../Stress_LandscapeDroughts" />
+  </component>
+  <component name="GitToolBoxStore">
+    <option name="projectConfigVersion" value="2" />
+  </component>
+  <component name="ProjectId" id="1ucAR88FQ9qF1EQsSLibQeQsLH7" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$" />
+    </key>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="ebd106af-91bc-425d-ae62-941959271aa4" name="Default Changelist" comment="" />
+      <created>1624954492628</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1624954492628</updated>
+    </task>
+    <task id="LOCAL-00001" summary="???">
+      <created>1624956164710</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1624956164710</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
+    <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="???" />
+    <option name="LAST_COMMIT_MESSAGE" value="???" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="743" y="284" width="426" height="480" key="FileChooserDialogImpl" timestamp="1624954665438">
+      <screen x="0" y="0" width="1920" height="1053" />
+    </state>
+    <state x="743" y="284" width="426" height="480" key="FileChooserDialogImpl/0.0.1920.1053/1920.0.1600.900@0.0.1920.1053" timestamp="1624954665438" />
+    <state x="780" y="448" key="Github.CreateGistDialog" timestamp="1624956447711">
+      <screen x="0" y="0" width="1920" height="1053" />
+    </state>
+    <state x="780" y="448" key="Github.CreateGistDialog/0.0.1920.1053/1920.0.1600.900@0.0.1920.1053" timestamp="1624956447711" />
+    <state x="634" y="426" width="448" height="200" key="Github.ShareDialog" timestamp="1624956336488">
+      <screen x="0" y="0" width="1920" height="1053" />
+    </state>
+    <state x="634" y="426" width="448" height="200" key="Github.ShareDialog/0.0.1920.1053/1920.0.1600.900@0.0.1920.1053" timestamp="1624956336488" />
+    <state x="667" y="221" width="577" height="606" key="RollbackChangesDialog" timestamp="1624955995422">
+      <screen x="0" y="0" width="1920" height="1053" />
+    </state>
+    <state x="667" y="221" width="577" height="606" key="RollbackChangesDialog/0.0.1920.1053/1920.0.1600.900@0.0.1920.1053" timestamp="1624955995422" />
+    <state x="555" y="262" width="802" height="524" key="Vcs.Push.Dialog.v2" timestamp="1624956178760">
+      <screen x="0" y="0" width="1920" height="1053" />
+    </state>
+    <state x="555" y="262" width="802" height="524" key="Vcs.Push.Dialog.v2/0.0.1920.1053/1920.0.1600.900@0.0.1920.1053" timestamp="1624956178760" />
+    <state x="766" y="442" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1624956035905">
+      <screen x="0" y="0" width="1920" height="1053" />
+    </state>
+    <state x="766" y="442" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.0.1920.1053/1920.0.1600.900@0.0.1920.1053" timestamp="1624956035905" />
+    <state x="729" y="390" width="453" height="269" key="git4idea.rebase.GitRebaseDialog" timestamp="1624956426878">
+      <screen x="0" y="0" width="1920" height="1053" />
+    </state>
+    <state x="729" y="390" width="453" height="269" key="git4idea.rebase.GitRebaseDialog/0.0.1920.1053/1920.0.1600.900@0.0.1920.1053" timestamp="1624956426878" />
+    <state x="709" y="427" width="494" height="194" key="git4idea.remote.GitConfigureRemotesDialog" timestamp="1624955984381">
+      <screen x="0" y="0" width="1920" height="1053" />
+    </state>
+    <state x="709" y="427" width="494" height="194" key="git4idea.remote.GitConfigureRemotesDialog/0.0.1920.1053/1920.0.1600.900@0.0.1920.1053" timestamp="1624955984381" />
+  </component>
+</project>
