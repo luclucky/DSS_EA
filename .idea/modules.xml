@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/DSS_EA.iml" filepath="$PROJECT_DIR$/.idea/DSS_EA.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../LUODEE/.idea/LUODEE.iml" filepath="$PROJECT_DIR$/../LUODEE/.idea/LUODEE.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../LUSEES/.idea/LUSEES.iml" filepath="$PROJECT_DIR$/../LUSEES/.idea/LUSEES.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../generAL/.idea/generAL.iml" filepath="$PROJECT_DIR$/../generAL/.idea/generAL.iml" />
+    </modules>
+  </component>
+</project>
