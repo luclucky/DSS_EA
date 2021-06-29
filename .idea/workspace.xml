@@ -10,14 +10,14 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="ebd106af-91bc-425d-ae62-941959271aa4" name="Default Changelist" comment="???" />
+    <list default="true" id="ebd106af-91bc-425d-ae62-941959271aa4" name="Default Changelist" comment="Initial commit" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="Git.Settings">
-    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../Stress_LandscapeDroughts" />
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="GitToolBoxStore">
     <option name="projectConfigVersion" value="2" />
@@ -44,6 +44,7 @@
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
       <changelist id="ebd106af-91bc-425d-ae62-941959271aa4" name="Default Changelist" comment="" />
+      <changelist id="" name="New changelist" comment="" />
       <created>1624954492628</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
@@ -56,7 +57,21 @@
       <option name="project" value="LOCAL" />
       <updated>1624956164710</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="Initial commit">
+      <created>1624957140211</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1624957140211</updated>
+    </task>
+    <task id="LOCAL-00003" summary="Initial commit">
+      <created>1624957213143</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1624957213143</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -69,10 +84,13 @@
         </entry>
       </map>
     </option>
+    <option name="oldMeFiltersMigrated" value="true" />
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="???" />
-    <option name="LAST_COMMIT_MESSAGE" value="???" />
+    <MESSAGE value="29.06.'21: Initial Upload" />
+    <MESSAGE value="Initial commit" />
+    <option name="LAST_COMMIT_MESSAGE" value="Initial commit" />
   </component>
   <component name="WindowStateProjectService">
     <state x="743" y="284" width="426" height="480" key="FileChooserDialogImpl" timestamp="1624954665438">
@@ -91,10 +109,18 @@
       <screen x="0" y="0" width="1920" height="1053" />
     </state>
     <state x="667" y="221" width="577" height="606" key="RollbackChangesDialog/0.0.1920.1053/1920.0.1600.900@0.0.1920.1053" timestamp="1624955995422" />
-    <state x="555" y="262" width="802" height="524" key="Vcs.Push.Dialog.v2" timestamp="1624956178760">
+    <state x="793" y="398" width="326" height="252" key="VCS.EditChangelistDialog" timestamp="1624957083653">
       <screen x="0" y="0" width="1920" height="1053" />
     </state>
-    <state x="555" y="262" width="802" height="524" key="Vcs.Push.Dialog.v2/0.0.1920.1053/1920.0.1600.900@0.0.1920.1053" timestamp="1624956178760" />
+    <state x="793" y="398" width="326" height="252" key="VCS.EditChangelistDialog/0.0.1920.1053/1920.0.1600.900@0.0.1920.1053" timestamp="1624957083653" />
+    <state x="555" y="262" width="802" height="524" key="Vcs.Push.Dialog.v2" timestamp="1624957268339">
+      <screen x="0" y="0" width="1920" height="1053" />
+    </state>
+    <state x="555" y="262" width="802" height="524" key="Vcs.Push.Dialog.v2/0.0.1920.1053/1920.0.1600.900@0.0.1920.1053" timestamp="1624957268339" />
+    <state x="783" y="254" width="346" height="541" key="com.intellij.openapi.vcs.changes.SpecificFilesViewDialog" timestamp="1624957027121">
+      <screen x="0" y="0" width="1920" height="1053" />
+    </state>
+    <state x="783" y="254" width="346" height="541" key="com.intellij.openapi.vcs.changes.SpecificFilesViewDialog/0.0.1920.1053/1920.0.1600.900@0.0.1920.1053" timestamp="1624957027121" />
     <state x="766" y="442" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1624956035905">
       <screen x="0" y="0" width="1920" height="1053" />
     </state>
