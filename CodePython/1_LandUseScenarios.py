@@ -17,7 +17,7 @@ from nlmpy import nlmpy
 
 # PostgreSQL DB-Connection
 
-conn = psycopg2.connect("host=139.14.20.252 port=5432 dbname=DB_PhD_03 user=streib_lucas password=1gis!gis1")
+conn = psycopg2.connect("host=??? port=??? dbname=??? user=??? password=???")
 cursor = conn.cursor()
 
 # http://www.postgis.net/docs/manual-dev/postgis_gdal_enabled_drivers.html

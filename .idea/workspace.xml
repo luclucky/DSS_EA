@@ -10,7 +10,10 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="ebd106af-91bc-425d-ae62-941959271aa4" name="Default Changelist" comment="Initial commit" />
+    <list default="true" id="ebd106af-91bc-425d-ae62-941959271aa4" name="Default Changelist" comment="2nd Initial commit">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/CodePython/1_LandUseScenarios.py" beforeDir="false" afterPath="$PROJECT_DIR$/CodePython/1_LandUseScenarios.py" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -23,12 +26,15 @@
     <option name="projectConfigVersion" value="2" />
   </component>
   <component name="ProjectId" id="1ucAR88FQ9qF1EQsSLibQeQsLH7" />
-  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent">
+    <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
@@ -44,7 +50,6 @@
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
       <changelist id="ebd106af-91bc-425d-ae62-941959271aa4" name="Default Changelist" comment="" />
-      <changelist id="" name="New changelist" comment="" />
       <created>1624954492628</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
@@ -71,7 +76,14 @@
       <option name="project" value="LOCAL" />
       <updated>1624957213143</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="2nd Initial commit">
+      <created>1624957576384</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1624957576384</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -87,10 +99,12 @@
     <option name="oldMeFiltersMigrated" value="true" />
   </component>
   <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
     <MESSAGE value="???" />
     <MESSAGE value="29.06.'21: Initial Upload" />
     <MESSAGE value="Initial commit" />
-    <option name="LAST_COMMIT_MESSAGE" value="Initial commit" />
+    <MESSAGE value="2nd Initial commit" />
+    <option name="LAST_COMMIT_MESSAGE" value="2nd Initial commit" />
   </component>
   <component name="WindowStateProjectService">
     <state x="743" y="284" width="426" height="480" key="FileChooserDialogImpl" timestamp="1624954665438">
@@ -113,10 +127,14 @@
       <screen x="0" y="0" width="1920" height="1053" />
     </state>
     <state x="793" y="398" width="326" height="252" key="VCS.EditChangelistDialog/0.0.1920.1053/1920.0.1600.900@0.0.1920.1053" timestamp="1624957083653" />
-    <state x="555" y="262" width="802" height="524" key="Vcs.Push.Dialog.v2" timestamp="1624957268339">
+    <state x="555" y="262" width="802" height="524" key="Vcs.Push.Dialog.v2" timestamp="1624957581423">
       <screen x="0" y="0" width="1920" height="1053" />
     </state>
-    <state x="555" y="262" width="802" height="524" key="Vcs.Push.Dialog.v2/0.0.1920.1053/1920.0.1600.900@0.0.1920.1053" timestamp="1624957268339" />
+    <state x="555" y="262" width="802" height="524" key="Vcs.Push.Dialog.v2/0.0.1920.1053/1920.0.1600.900@0.0.1920.1053" timestamp="1624957581423" />
+    <state width="961" height="526" key="XDebugger.FullValuePopup" timestamp="1624957530402">
+      <screen x="0" y="0" width="1920" height="1053" />
+    </state>
+    <state width="961" height="526" key="XDebugger.FullValuePopup/0.0.1920.1053/1920.0.1600.900@0.0.1920.1053" timestamp="1624957530402" />
     <state x="783" y="254" width="346" height="541" key="com.intellij.openapi.vcs.changes.SpecificFilesViewDialog" timestamp="1624957027121">
       <screen x="0" y="0" width="1920" height="1053" />
     </state>
